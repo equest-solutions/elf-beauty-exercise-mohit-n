@@ -87,7 +87,7 @@
       "name": "Featured Ingredients",
       "settings": {
         "width_option": "full_width",
-        "max_ingredients": 6,
+        "max_ingredients": 4,
         "default_heading": "Featured Ingredients",
         "heading_size": "h1",
         "text_transform": "lowercase",
