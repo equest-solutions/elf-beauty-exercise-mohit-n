@@ -90,7 +90,7 @@
         "max_ingredients": 6,
         "default_heading": "Featured Ingredients",
         "heading_size": "h1",
-        "text_transform": "uppercase",
+        "text_transform": "lowercase",
         "text_alignment": "center",
         "padding_top_desktop": 50,
         "padding_bottom_desktop": 50,
