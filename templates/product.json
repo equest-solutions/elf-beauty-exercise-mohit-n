@@ -87,16 +87,17 @@
       "name": "Featured Ingredients",
       "settings": {
         "width_option": "full_width",
-        "max_ingredients": 6,
-        "default_heading": "Featured Ingredients",
-        "heading_size": "h1",
+        "max_ingredients": 4,
+        "default_heading": "{{ product.metafields.custom.ingredient_title.value }}",
+        "heading_size": "hxl",
         "text_transform": "uppercase",
         "text_alignment": "center",
         "padding_top_desktop": 50,
         "padding_bottom_desktop": 50,
         "padding_top_mobile": 30,
         "padding_bottom_mobile": 30,
-        "content_alignment": "left"
+        "content_alignment": "center",
+        "title_size": "h1"
       }
     },
     "related-products": {
