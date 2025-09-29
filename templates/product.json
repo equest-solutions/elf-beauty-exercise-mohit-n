@@ -87,7 +87,7 @@
       "name": "Featured Ingredients",
       "settings": {
         "width_option": "full_width",
-        "max_ingredients": 4,
+        "max_ingredients": 9,
         "default_heading": "{{ product.metafields.custom.ingredient_title.value }}",
         "heading_size": "hxl",
         "text_transform": "uppercase",
